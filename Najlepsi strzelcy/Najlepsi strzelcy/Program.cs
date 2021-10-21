@@ -8,6 +8,7 @@ namespace Najlepsi_strzelcy
 {
 	static class Program
 	{
+		
 		/// <summary>
 		/// The main entry point for the application.
 		/// </summary>
@@ -17,6 +18,8 @@ namespace Najlepsi_strzelcy
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
+
+
 		}
 	}
 }
