@@ -169,6 +169,9 @@ namespace Najlepsi_strzelcy
 
 		private void Addscorer_Click(object sender, EventArgs e)
 		{
+			
+			if (Addscorer_Click)
+			
 			Console.WriteLine("Name and Surname");
 			var nameAndSurname = Console.ReadLine();
 
